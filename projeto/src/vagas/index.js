@@ -27,7 +27,7 @@ function Anuncios() {
           <Anuncio
             foto="https://blog.prozeducacao.com.br/wp-content/uploads/2022/09/enfermeira.jpg"
             titulo="Enfermeira(o)"
-            linha1="Qualificações: no minímo técnico em enfermagem"
+            linha1="EM: 01310-930"
             linha2="Carga horária: 40h semanais"
             linha3="Salário: R$5000,00"
           />
@@ -35,7 +35,7 @@ function Anuncios() {
           <Anuncio
             foto="https://media.licdn.com/dms/image/C4D03AQGG2fR0s0rl3A/profile-displayphoto-shrink_200_200/0/1644285468858?e=2147483647&v=beta&t=uw0Dtlt0pSmpVGmiwjmwJl7rju9avKcJlcNUdgRLk70"
             titulo="Programador"
-            linha1="Qualificações: ser perigoso"
+            linha1="EM: 04200-000"
             linha2="Carga horária: 2h semanais"
             linha3="Salário: R$10000,09"
           />
@@ -43,7 +43,7 @@ function Anuncios() {
           <Anuncio
             foto="https://timnews.com.br/system/images/photos/14920828/original/open-uri20220315-18-fkbfrx?1647371143"
             titulo="ADM"
-            linha1="Qualificações: ser engraçado"
+            linha1="EM: 01001-000"
             linha2="Carga horária: 100h semanais"
             linha3="Salário: R$271838000,00"
           />
